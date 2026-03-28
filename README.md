@@ -38,7 +38,7 @@ Self-evolving AI agents, secure by default. Agents start as Rookies, evolve to V
 
 AI-powered code review for pull requests. Analyzes diffs with LLMs and provides actionable feedback on security, performance, and code quality.
 
-`21 tests` `OpenRouter LLM` `FastAPI` `MIT`
+`36 tests` `Stripe live` `DeepSeek LLM` `MIT`
 
 [![Repo](https://img.shields.io/badge/foxreview-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreview)
 
