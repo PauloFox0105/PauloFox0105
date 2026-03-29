@@ -55,6 +55,16 @@ AI-powered code review for pull requests. Analyzes diffs with LLMs and provides 
 
 ---
 
+### FoxReply
+
+AI-powered auto-reply for Mercado Livre and Shopee reviews. Multi-model AI (DeepSeek/Haiku/GPT-4o), risk scoring, Shopee HMAC auth, batch sync.
+
+`80 tests` `Shopee + ML` `Multi-model AI` `Docker`
+
+[![Repo](https://img.shields.io/badge/foxreply-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreply) [![Landing](https://img.shields.io/badge/landing-5%20languages-blue?style=flat&logo=next.js)](https://github.com/PauloFox0105/foxreply-landing)
+
+---
+
 ### fox-browser
 
 FOX fork of dev-browser with domain whitelist and audit log. Secure browser automation via Chrome CDP protocol.
@@ -65,9 +75,9 @@ FOX fork of dev-browser with domain whitelist and audit log. Secure browser auto
 
 ## Ecosystem
 
-`214 tests across 3 projects` `11 Docker containers` `CodeRabbit verified`
+`294 tests across 4 projects` `12 Docker containers` `CodeRabbit verified`
 
-Both FoxShield and FoxReview feature complete bilingual documentation (EN + PT-BR).
+FoxShield, FoxReview, and FoxReply feature complete bilingual documentation (EN + PT-BR).
 
 ## GitHub Stats
 
