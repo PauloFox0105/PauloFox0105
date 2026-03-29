@@ -53,6 +53,16 @@ AI-powered code review for pull requests. Analyzes diffs with LLMs and provides 
 
 [![Site](https://img.shields.io/badge/centralfox.online-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://centralfox.online)
 
+---
+
+### fox-browser
+
+FOX fork of dev-browser with domain whitelist and audit log. Secure browser automation via Chrome CDP protocol.
+
+`Chrome DevTools` `Domain whitelist` `Audit log` `MIT`
+
+[![Repo](https://img.shields.io/badge/fox--browser-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/fox-browser)
+
 ## Ecosystem
 
 `214 tests across 3 projects` `11 Docker containers` `CodeRabbit verified`
