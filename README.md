@@ -25,21 +25,21 @@ Eusebio-CE, Brasil | GMT-3
 
 ## Featured Projects
 
-### FoxShield
+### FoxShield v0.2.1
 
-Self-evolving AI agents, secure by default. Agents start as Rookies, evolve to Veterans and Oracles based on performance. Marketplace with 30% commission model.
+Self-evolving AI agents, secure by default. Agents start as Rookies, evolve to Veterans and Oracles based on performance. Marketplace with 30% commission model. 16 documented endpoints.
 
-`72 tests` `Stripe live` `Docker` `MIT`
+`72 tests` `Stripe live` `Docker` `MIT` ![Docs](https://img.shields.io/badge/docs-bilingual-blue)
 
 [![Repo](https://img.shields.io/badge/foxshield-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxshield)
 
 ---
 
-### FoxReview
+### FoxReview v0.2.0
 
-AI-powered code review for pull requests. Analyzes diffs with LLMs and provides actionable feedback on security, performance, and code quality.
+AI-powered code review for pull requests. Analyzes diffs with LLMs and provides actionable feedback on security, performance, and code quality. 5 documented endpoints.
 
-`39 tests` `Stripe live` `DeepSeek LLM` `MIT`
+`39 tests` `Stripe live` `DeepSeek LLM` `MIT` ![Docs](https://img.shields.io/badge/docs-bilingual-blue)
 
 [![Repo](https://img.shields.io/badge/foxreview-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreview)
 
@@ -52,6 +52,12 @@ AI-powered code review for pull requests. Analyzes diffs with LLMs and provides 
 `ROI +19.68%` `Sharpe 2.26` `MaxDD -3.15%` `Live`
 
 [![Site](https://img.shields.io/badge/centralfox.online-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://centralfox.online)
+
+## Ecosystem
+
+`214 tests across 3 projects` `11 Docker containers` `CodeRabbit verified`
+
+Both FoxShield and FoxReview feature complete bilingual documentation (EN + PT-BR).
 
 ## GitHub Stats
 
