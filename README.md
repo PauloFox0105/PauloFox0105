@@ -39,7 +39,7 @@ Self-evolving AI agents, secure by default. Agents start as Rookies, evolve to V
 
 AI-powered code review for pull requests. Analyzes diffs with LLMs and provides actionable feedback on security, performance, and code quality. 5 documented endpoints.
 
-`39 tests` `Stripe live` `DeepSeek LLM` `MIT` ![Docs](https://img.shields.io/badge/docs-bilingual-blue) ![v0.2.0](https://img.shields.io/badge/v0.2.0-22c55e)
+`45 tests` `Stripe live` `DeepSeek LLM` `MIT` ![Docs](https://img.shields.io/badge/docs-bilingual-blue) ![v0.2.0](https://img.shields.io/badge/v0.2.0-22c55e)
 
 [![Repo](https://img.shields.io/badge/foxreview-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreview)
 
@@ -59,7 +59,7 @@ AI-powered code review for pull requests. Analyzes diffs with LLMs and provides 
 
 AI-powered auto-reply for Mercado Livre and Shopee reviews. Multi-model AI (DeepSeek/Haiku/GPT-4o), risk scoring, Shopee HMAC auth, Fernet token encryption, real-time webhooks, analytics dashboard.
 
-`86 tests` `Shopee + ML` `Multi-model AI` `Fernet encryption` `Docker` ![v0.2.0](https://img.shields.io/badge/v0.2.0-22c55e)
+`94 tests` `Shopee + ML` `Multi-model AI` `Fernet encryption` `Webhooks` `Docker` ![v0.2.0](https://img.shields.io/badge/v0.2.0-22c55e)
 
 [![Repo](https://img.shields.io/badge/foxreply-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreply) [![Landing](https://img.shields.io/badge/landing-5%20languages-blue?style=flat&logo=next.js)](https://github.com/PauloFox0105/foxreply-landing) [![Live](https://img.shields.io/badge/foxreply--landing.vercel.app-000?style=flat&logo=vercel)](https://foxreply-landing.vercel.app)
 
@@ -85,7 +85,7 @@ FOX fork of dev-browser with domain whitelist and audit log. Secure browser auto
 
 ## Ecosystem
 
-`306 tests across 5 projects` `13 Docker containers` `CodeRabbit verified`
+`314 tests across 5 projects` `13 Docker containers` `CodeRabbit verified`
 
 FoxShield, FoxReview, FoxReply, and EvoShield feature complete bilingual documentation (EN + PT-BR).
 
