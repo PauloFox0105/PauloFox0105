@@ -1,13 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&text=Senhor%20Fox&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=200&text=Paulo%20Fox&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ## About Me
 
 ```
-Paulo Fox | CEO @ Holding FOX Digital
-Building AI-powered trading & automation systems
-Security-first · CodeRabbit verified
-Eusebio-CE, Brasil | GMT-3
+Paulo Fox | CEO @ FOX Digital
+Building AI-powered SaaS for e-commerce & crypto trading
+Eusébio-CE, Brazil | GMT-3
 ```
+
+## Products
+
+| Product | Description | Status |
+|---------|-------------|--------|
+| [FoxShield AI](https://github.com/PauloFox0105/foxshield-ai) | AI Code Review for GitHub — score, review, fix | Live on Marketplace |
+| [FoxBrain](https://fox-pred-v3.vercel.app) | Crypto Prediction Dashboard — 1201 AI agents | Live |
+| [Central Fox](https://centralfox.online) | AI Agent Marketplace — 240 agents, 25 categories | Live |
+| FoxReply | Auto-reply reviews — ML, Shopee, Nuvemshop | Live |
+| FoxQ&A | Pre-sale question automation — Mercado Livre | Live |
+| FoxPost | Auto product posting across marketplaces | Live |
+| FoxLister | Smart listing optimization | Live |
+| FoxPrice | Dynamic repricing engine | Live |
 
 ## Tech Stack
 
@@ -16,88 +28,74 @@ Eusebio-CE, Brasil | GMT-3
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## Featured Projects
 
-### FoxShield v0.2.1
+### FoxShield AI v2.0
 
-Self-evolving AI agents, secure by default. Agents start as Rookies, evolve to Veterans and Oracles based on performance. Marketplace with 30% commission model. 16 documented endpoints.
+AI-powered code review that scores, reviews, and fixes your code. 3 specialized agents (Security, Quality, Performance) run in parallel on every pull request. Domain-aware profiles, quality gates, 1-click fixes.
 
-`72 tests` `Stripe live` `Docker` `MIT` ![Docs](https://img.shields.io/badge/docs-bilingual-blue) ![v0.2.1](https://img.shields.io/badge/v0.2.1-22c55e)
+`1140 tests` `4 Git platforms` `Slash commands` `Self-hosted` `MIT`
 
-[![Repo](https://img.shields.io/badge/foxshield-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxshield)
+![v2.0](https://img.shields.io/badge/v2.0-22c55e)
 
----
-
-### FoxReview v0.2.0
-
-AI-powered code review for pull requests. Analyzes diffs with LLMs and provides actionable feedback on security, performance, and code quality. 5 documented endpoints.
-
-`45 tests` `Stripe live` `DeepSeek LLM` `MIT` ![Docs](https://img.shields.io/badge/docs-bilingual-blue) ![v0.2.0](https://img.shields.io/badge/v0.2.0-22c55e)
-
-[![Repo](https://img.shields.io/badge/foxreview-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreview)
+[![Repo](https://img.shields.io/badge/foxshield--ai-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxshield-ai)
 
 ---
 
-### FoxBrain.ai
+### FoxBrain — Crypto Prediction Console
 
-1,201 AI agents organized in 6 squads reach consensus on trading decisions. Running live with 27 crypto pairs on Binance Futures.
+1,201 AI agents organized in 6 squads (Technical, Risk, OnChain, Sentiment, Macro, Regional) reach consensus on trading decisions. 5 tabs, 27 routes, 5 languages, 4 themes, 400+ Binance pairs.
 
-`ROI +19.68%` `Sharpe 2.26` `MaxDD -3.15%` `Live`
+`6 strategies` `Multi-timeframe` `CWAF sizing`
 
-[![Site](https://img.shields.io/badge/centralfox.online-22c55e?style=flat&logo=google-chrome&logoColor=white)](https://centralfox.online)
+[![Live](https://img.shields.io/badge/fox--pred--v3.vercel.app-000?style=flat&logo=vercel)](https://fox-pred-v3.vercel.app)
+
+---
+
+### Central Fox — AI Agent Marketplace
+
+240 AI agents across 25 categories, 3 tiers (Silver free, Gold, Platinum). Prompt templates for ChatGPT, Gemini, Claude. Supabase backend, Stripe checkout, ManyChat integration.
+
+[![Live](https://img.shields.io/badge/centralfox.online-22c55e?style=flat&logo=google-chrome)](https://centralfox.online)
 
 ---
 
 ### FoxReply
 
-AI-powered auto-reply for Mercado Livre and Shopee reviews. Multi-model AI (DeepSeek/Haiku/GPT-4o), risk scoring, Shopee HMAC auth, Fernet token encryption, real-time webhooks, analytics dashboard.
+AI-powered auto-reply for Mercado Livre, Shopee, and Nuvemshop reviews. Multi-model AI (DeepSeek/Haiku/GPT-4o), risk scoring, onboarding wizard, trial system.
 
-`113 tests` `Shopee + ML` `Multi-model AI` `Fernet encryption` `Webhooks` `Docker` ![v0.2.1](https://img.shields.io/badge/v0.2.1-22c55e)
+`138 tests` `3 marketplaces` `Multi-model AI` `Docker`
 
-[![Repo](https://img.shields.io/badge/foxreply-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxreply) [![Landing](https://img.shields.io/badge/landing-5%20languages-blue?style=flat&logo=next.js)](https://github.com/PauloFox0105/foxreply-landing) [![Live](https://img.shields.io/badge/foxreply--landing.vercel.app-000?style=flat&logo=vercel)](https://foxreply-landing.vercel.app)
-
----
-
-### FoxQ&A
-
-AI-powered auto-reply for Mercado Livre pre-sale questions. Reads product listings, generates contextual answers in native PT-BR. Real-time monitoring, risk scoring, multi-store support.
-
-`206 tests` `ML Questions API` `Multi-model AI` `Docker` ![v0.1.0](https://img.shields.io/badge/v0.1.0-22c55e)
-
-[![Repo](https://img.shields.io/badge/foxqa-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/foxqa)
+![v2.0](https://img.shields.io/badge/v2.0-22c55e)
 
 ---
 
-### EvoShield
+### FOX Command Center 3D
 
-Self-evolving AI skill engine with MCP server integration. Skills auto-evolve based on execution feedback. Secure sandboxed execution with path traversal prevention and HMAC auth.
+JARVIS-style 3D dashboard monitoring the entire ecosystem. React + Three.js + R3F with glassmorphism UI. Trading globe, FENIX hexagonal squads, infrastructure health cubes.
 
-`103 tests` `MCP Server` `CI/CD` `MIT` ![v0.2.0](https://img.shields.io/badge/v0.2.0-22c55e)
-
-[![Repo](https://img.shields.io/badge/evoshield-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/EvoShield)
+`18 containers` `Real-time` `WebSocket logs`
 
 ---
 
-### fox-browser
+## Infrastructure
 
-FOX fork of dev-browser with domain whitelist and audit log. Secure browser automation via Chrome CDP protocol.
-
-`Chrome DevTools` `Domain whitelist` `Audit log` `MIT`
-
-[![Repo](https://img.shields.io/badge/fox--browser-22c55e?style=flat&logo=github)](https://github.com/PauloFox0105/fox-browser)
-
-## Ecosystem
-
-`539 tests across 6 projects` `14 Docker containers` `CodeRabbit verified`
-
-FoxShield, FoxReview, FoxReply, FoxQ&A, and EvoShield feature complete bilingual documentation (EN + PT-BR).
+- **Trading:** FENIX ENGINE v4.1 (1201 AI agents, 6 squads, DeepSeek V3.2) + FOX ULTRA v4.2 (6 strategies, paper trading)
+- **SaaS:** FastAPI + Docker + PostgreSQL + Redis + Nginx
+- **Frontend:** Next.js + React + Tailwind + Three.js
+- **AI/LLM:** DeepSeek V3.2 + Groq + Claude (multi-LLM routing)
+- **Memory:** FoxMemory v3.1 — PostgreSQL + pgvector semantic search
+- **Monitoring:** Sentinel (7 containers), Command Center 3D, WebSocket live logs
 
 ## GitHub Stats
 
@@ -113,7 +111,7 @@ FoxShield, FoxReview, FoxReply, FoxQ&A, and EvoShield feature complete bilingual
 ## Connect
 
 [![Instagram](https://img.shields.io/badge/@paulofox0105-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulofox0105)
+[![YouTube](https://img.shields.io/badge/@Foxdigitalofficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Foxdigitalofficial)
 [![Site](https://img.shields.io/badge/centralfox.online-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://centralfox.online)
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulofoxbtc@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer" width="100%" />
